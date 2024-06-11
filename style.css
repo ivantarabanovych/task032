@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://sotni.ru/wp-content/uploads/2023/08/krasivyi-temnyi-fon-13.webp');
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+canvas {
+    border: 3px solid rgb(255, 255, 255);
+}
